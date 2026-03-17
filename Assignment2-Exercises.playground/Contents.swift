@@ -393,7 +393,6 @@ let library: [MediaItem] = [
 ]
 
 
-
 /*:
  ### 4o) Count with `is`
  Use a `for` loop with `is` to count how many movies and songs are in the array.
