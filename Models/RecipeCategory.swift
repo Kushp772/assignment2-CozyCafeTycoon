@@ -6,7 +6,7 @@
 //
 import Foundation
 
-/// Category of recipe
+// Category of recipe
 enum RecipeCategory: String {
     case drink = "Drink"
     case pastry = "Pastry"
