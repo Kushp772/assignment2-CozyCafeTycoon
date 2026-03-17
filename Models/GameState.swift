@@ -7,7 +7,7 @@
 
 import Foundation
 
-/// Represents app/game state
+// Represents app/game state
 enum GameState {
     
     case loading
